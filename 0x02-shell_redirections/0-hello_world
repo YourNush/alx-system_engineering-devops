@@ -1,2 +1,2 @@
-#Hello World Shell Script
-echo "Hello World"
+#!/bin/bash
+#echo "Hello world!"
