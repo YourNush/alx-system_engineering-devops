@@ -15,4 +15,4 @@ The interpreter can handle a variety of Monty opcodes, including printing, mathe
 [GitHub](https://github.com/iVGeek)|iVGeek
 
 
-![image](https://user-images.githubusercontent.com/97067717/207470061-0628eb0a-79e9-4cca-ad23-79c819aa4387.png)
+![image](https://github.com/iVGeek/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/png_spoof.png)
