@@ -8,7 +8,7 @@ Any information that is not encrypted and sniffed by an attacker can be seen by 
 
 In this project, We will not go over ARP spoofing, but we’ll start by sniffing unencrypted traffic and getting information out of it.
 
-Sendgrid offers is an emailing service that provides state of the art secure system to send emails, but also supports a legacy unsecured way: telnet. You can create an account for free, which is what I did, and send an email using telnet
+[Sendgrid](https://sendgrid.com/)offers is an emailing service that provides state of the art secure system to send emails, but also supports a legacy unsecured way: telnet. You can create an account for free, which is what I did, and send an email using telnet
 
 
 ## Concept Based on:
@@ -21,8 +21,8 @@ Sendgrid offers is an emailing service that provides state of the art secure sys
 
 ## OS: Ubuntu 20.04 LTS
 
-## CODESMITHES 🦊
+CODESMITHES 🦊
 
-## [GitHub](https://github.com/iVGeek)|iVGeek
+[GitHub](https://github.com/iVGeek)|iVGeek
 
 ![image](https://github.com/iVGeek/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/png_spoof.png)
