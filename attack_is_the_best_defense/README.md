@@ -16,13 +16,13 @@ Sendgrid offers is an emailing service that provides state of the art secure sys
 * Network basics
 * Docker
 
-### Environment
+## Environment
 * DevOps, Scripting, Hacking and some Brains.
 
-* OS: Ubuntu 20.04 LTS
+## OS: Ubuntu 20.04 LTS
 
 ## CODESMITHES 🦊
 
-[GitHub](https://github.com/iVGeek)|iVGeek
+## [GitHub](https://github.com/iVGeek)|iVGeek
 
 ![image](https://github.com/iVGeek/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/png_spoof.png)
