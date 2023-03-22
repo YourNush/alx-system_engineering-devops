@@ -1,4 +1,4 @@
-# Attack is the best defense 💻:
+# Attack is the best defense!
 
 ## This repo is just a summary to:
 
