@@ -23,6 +23,6 @@ In this project, We will not go over ARP spoofing, but we’ll start by sniffing
 
 CODESMITHES 🦊
 
-[GitHub](https://github.com/iVGeek)|iVGeek
+GitHub|[iVGeek](https://github.com/iVGeek)
 
 ![image](https://github.com/iVGeek/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/png_spoof.png)
