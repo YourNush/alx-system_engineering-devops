@@ -2,6 +2,18 @@
 
 Puppet is a tool that helps you manage and automate the configuration of servers. When you use Puppet, you define the desired state of the systems in your infrastructure that you want to manage.
 
+## Install puppet
+
+Note on Versioning
+Your Ubuntu 20.04 VM should have Puppet 5.5 preinstalled.
+
+```powershell
+$ apt-get install -y ruby=1:2.7+1 --allow-downgrades
+$ apt-get install -y ruby-augeas
+$ apt-get install -y ruby-shadow
+$ apt-get install -y puppet
+
+```
 ## A. 0-create_a_file.pp 
  Using Puppet, create a file in /tmp.
 
