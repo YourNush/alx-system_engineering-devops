@@ -1,4 +1,6 @@
-### Configuration management :robot:
+### Configuration management Using Puppet tool:robot:
+
+Puppet is a tool that helps you manage and automate the configuration of servers. When you use Puppet, you define the desired state of the systems in your infrastructure that you want to manage.
 
 ## A. 0-create_a_file.pp 
  Using Puppet, create a file in /tmp.
