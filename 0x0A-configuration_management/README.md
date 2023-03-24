@@ -53,7 +53,9 @@ Requirements:
 Install flask
 Version must be 2.1.0
 
-Example:
+Code Example:
+
+```powershell
 
 root@9665f0a47391:/# puppet apply 1-install_a_package.pp
 
@@ -71,6 +73,8 @@ Flask 2.1.0
 
 Werkzeug 2.1.1
 
+```
+
 ## C. 2-execute_a_command.pp
 
    Execute a command
@@ -81,7 +85,10 @@ Requirements:
 
 Must use the exec Puppet resource
 Must use pkill
-Example:
+
+Example Code:
+
+```powershell
 
 Terminal #0 - starting my process
 
@@ -118,3 +125,5 @@ root@d391259bf577:/# ./killmenow
 Terminated
 
 root@d391259bf577:/#
+
+```
