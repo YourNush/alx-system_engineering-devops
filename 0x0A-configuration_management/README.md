@@ -3,6 +3,7 @@
 Puppet is a tool that helps you manage and automate the configuration of servers. When you use Puppet, you define the desired state of the systems in your infrastructure that you want to manage.
 
 ## Install puppet
+[![Puppet 5 Docs](https://intranet.alxswe.com/rltoken/fsIr2xFkJHTkaXwqZFFcbA)]
 
 Note on Versioning
 Your Ubuntu 20.04 VM should have Puppet 5.5 preinstalled.
