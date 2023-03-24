@@ -13,6 +13,8 @@ File contains I love Puppet
 
 Code Example:
 
+```powershell
+
 root@6712bef7a528:~# puppet-lint --version
 
 puppet-lint 2.5.2
@@ -38,6 +40,8 @@ root@6712bef7a528:~# ls -l /tmp/school
 root@6712bef7a528:~# cat /tmp/school
 
 I love Puppetroot@6712bef7a528:~#
+
+```
 
 ## B. 1-install_a_package.pp
   Install a package
