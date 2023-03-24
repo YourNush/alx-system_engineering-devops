@@ -47,9 +47,9 @@ Python 3.8.10
 Flask 2.1.0
 Werkzeug 2.1.1
 
-C. 2-execute_a_command.pp
+## C. 2-execute_a_command.pp
 
-   ## Execute a command
+   Execute a command
    
    Using Puppet, create a manifest that kills a process named killmenow.
 
