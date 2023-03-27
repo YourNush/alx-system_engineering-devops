@@ -29,3 +29,5 @@ As you can tell, I am not using emacs to perform the task in my answer file. Thi
 A good Software Engineer is a [lazy Software Engineer.](https://intranet.alxswe.com/rltoken/sRY__axKNHhNW0SVmsUC_A)
 
 ![image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/82VsYEC.jpg)
+
+![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01cab59e881e31842b8d47a0974e8d3b6f0f2001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230327T160802Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0ea4d14046912c90a11ac6fadbb965c15b3153146ca3a8d2039644592edda3db)
