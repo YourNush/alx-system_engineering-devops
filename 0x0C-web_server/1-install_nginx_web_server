@@ -1,10 +1,7 @@
 #!/usr/bin/env bash
-# update
-sudo apt-get update -y
-# install nginx
-sudo apt-get install nginx -y
-# allow traffic on port 80
-ufw allow 'Nginx HTTP'
-# write message in index.html file
-echo "Hello World!" > /var/www/html/index.html
+# Install nginx and start it
+apt-get -y install nginx
 service nginx start
+ufw allow 'Nginx HTTP'
+echo "Holberton School\n" | sudo tee /var/www/html/index.nginx-debian.html
+service nginx restart
